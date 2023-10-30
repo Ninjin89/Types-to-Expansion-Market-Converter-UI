@@ -13,30 +13,21 @@
     <br />
 </div>
 
+<p align="center">
+  <a href="#about-the-project">Installation</a> •
+  <a href="#List-of-Features">List of Features</a> •
+  <a href="#built-with">Built-with</a> •
+  <a href="#Video-Preview">Video-Preview</a> •
+  <a href="#getting-started">Getting-Started</a> •
+  <a href="#prerequisites">Prerequisites</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#>">Deprecated</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#support">Support</a> •
+  <a href="#license">License</a>
+</p>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#List-of-Features">Features</a></li>
-        <li><a href="#built-with">Built With</a></li>
-        <li><a href="#Video-Preview">Video Preview</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
 
-  </ol>
-</details>
 
 
 
