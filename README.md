@@ -45,7 +45,7 @@
 
 I created this tool to make life more easy for Expansion users and also keep it Simple. The Converter is still in a early stage of development.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://#)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Video Preview -->
@@ -127,7 +127,7 @@ Discord: [dsc.gg/cyberneticmonkeys](dsc.gg/cyberneticmonkeys)
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: https://i.imgur.com/SdM2yCO.png
+[product-screenshot]: https://i.imgur.com/H06DwRe.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
