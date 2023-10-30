@@ -109,7 +109,7 @@ Download the the latest Version here:
 <!-- CONTACT -->
 ## :rocket: Contact
 ### Contact me here
-<a href="dsc.gg/cyberneticmonkey"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
+<a href="https://discord.gg/mEPT9KNSxs"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
