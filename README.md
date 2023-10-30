@@ -84,7 +84,7 @@ Download the the latest Version here:
    https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/archive/refs/heads/main.zip
    ```
 
-### 🔨 Installation
+### Installation
 
 1. Open the Downloaded .Zip folder.
 
