@@ -21,6 +21,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#List-of-Features">Features</a></li>
         <li><a href="#built-with">Built With</a></li>
         <li><a href="#Video-Preview">Video Preview</a></li>
       </ul>
@@ -49,6 +50,7 @@ I created this tool to make life more easy for Expansion users and also keep it 
 
 
 ## Features
+### List of Features
 
 |      Feautres                      | 🔰 ArminC AutoExec  
 | -------------------------- | :-----------------: 
