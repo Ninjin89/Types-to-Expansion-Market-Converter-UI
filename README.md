@@ -29,7 +29,7 @@
 <h3 align="center">Types to Expansion Market Converter with UI</h3>
 
   <p align="center">
-    A tool to convert ClassNames from a Types XMl into Expansion Market JSON
+    A tool to convert ClassNames from a Types XML into Expansion Market JSON
     <br />
 </div>
 
