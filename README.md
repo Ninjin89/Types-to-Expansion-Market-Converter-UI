@@ -59,6 +59,7 @@ I created this tool to make life more easy for Expansion users and also keep it 
 | Change all Values |         ✔️         | 
 | Add Spawn Attachments from Types      |         ✔️         |   
 | Add Variants from Types  |         ✔️         | 
+| Add Items from Types to Expansion Market  |         ✔️         |
 | Multiselect  |         ✔️         |
 
 
