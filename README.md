@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI">
-    <img src="https://cdn.discordapp.com/attachments/957315288733483060/1157834124409716836/Firefly_Erstelle_einen_futuristischen_cyber_affen_der_bose_guckt_als_terminator_88179.jpg" alt="Logo" width="80" height="80">
+   <img src="https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/blob/main/icon.png?raw=true" alt="Logo" width="160" height="160">
   </a>
 
 <h3 align="center">Types to Expansion Market Converter with UI</h3>
