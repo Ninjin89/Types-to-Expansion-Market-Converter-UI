@@ -9,7 +9,7 @@
 <h3 align="center">Types to Expansion Market Converter with UI</h3>
 
   <p align="center">
-    A tool to convert ClassNames from a Types XML into Expansion Market JSON
+    A program to convert Types XML classnames to Expansion Market JSON items.
     <br />
 </div>
 
@@ -30,7 +30,7 @@
 ## :beginner: About The Project
 ### All about the Project
 
-I created this tool to make life more easy for Expansion users and also keep it Simple. The Converter is still in a early stage of development.
+I have programmed this converter to make life easier for Dayz Expansion Mod users. The converter is still in early development.
 
 [![Product Name Screen Shot][product-screenshot]](https://#)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
