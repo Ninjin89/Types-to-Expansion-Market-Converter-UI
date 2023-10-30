@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <a href="#🔨-Installation">Installation</a> •
+  <a href="#Installation">Installation</a> •
   <a href="#List-of-Features">List of Features</a> •
   <a href="#built-with">Built-with</a> •
   <a href="#Video-Preview">Video-Preview</a> •
