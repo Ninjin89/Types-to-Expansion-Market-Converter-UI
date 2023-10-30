@@ -16,15 +16,11 @@
 <p align="center">
   <a href="#Installation">Installation</a> •
   <a href="#List-of-Features">List of Features</a> •
-  <a href="#built-with">Built-with</a> •
-  <a href="#Video-Preview">Video-Preview</a> •
   <a href="#getting-started">Getting-Started</a> •
   <a href="#prerequisites">Prerequisites</a> •
   <a href="#installation">Installation</a> •
-  <a href="#>">Deprecated</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#support">Support</a> •
-  <a href="#license">License</a>
+  <a href="#Contact-me-here">Support</a> •
+
 </p>
 
 
@@ -112,6 +108,7 @@ Download the the latest Version here:
 
 <!-- CONTACT -->
 ## :rocket: Contact
+### Contact me here
 <a href="dsc.gg/cyberneticmonkey"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
 
 
