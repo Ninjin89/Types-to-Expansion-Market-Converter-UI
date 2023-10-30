@@ -43,6 +43,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Video-Preview">Video Preview</a></li>
       </ul>
     </li>
     <li>
@@ -65,6 +66,14 @@
 I created this tool to make life more easy for Expansion users and also keep it Simple. The Converter is still in a early stage of development.
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Video Preview -->
+
+### Video Preview
+<a href="https://youtu.be/g43TYvBzRhQ" target="_blank">
+ <img src="https://img.youtube.com/vi/g43TYvBzRhQ/maxresdefault.jpg" alt="Watch the video" width="800" height="400" border="10" />
+</a>
 
  <!--`github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`-->
 
