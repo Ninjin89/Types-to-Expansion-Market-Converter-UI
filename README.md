@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <a href="#about-the-project">Installation</a> •
+  <a href="#All-about-the-Project">Installation</a> •
   <a href="#List-of-Features">List of Features</a> •
   <a href="#built-with">Built-with</a> •
   <a href="#Video-Preview">Video-Preview</a> •
@@ -33,6 +33,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## :beginner: About The Project
+### All about the Project
 
 I created this tool to make life more easy for Expansion users and also keep it Simple. The Converter is still in a early stage of development.
 
