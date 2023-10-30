@@ -16,10 +16,9 @@
 <p align="center">
   <a href="#Installation">Installation</a> •
   <a href="#List-of-Features">List of Features</a> •
-  <a href="#getting-started">Getting-Started</a> •
-  <a href="#prerequisites">Prerequisites</a> •
+  <a href="#Lets-go-and-start">Getting-Started</a> •
   <a href="#installation">Installation</a> •
-  <a href="#Contact-me-here">Support</a> •
+  <a href="#Contact-me-here">Support</a> 
 
 </p>
 
@@ -74,6 +73,7 @@ I created this tool to make life more easy for Expansion users and also keep it 
 
 <!-- GETTING STARTED -->
 ## :notebook: Getting Started
+### Lets go and start
 
 Download the the latest Version here:
    ```sh
