@@ -14,7 +14,6 @@
 </div>
 
 
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -41,12 +40,26 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## :beginner: About The Project
 
 I created this tool to make life more easy for Expansion users and also keep it Simple. The Converter is still in a early stage of development.
 
 [![Product Name Screen Shot][product-screenshot]](https://#)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Features
+
+|      Feautres                      | 🔰 ArminC AutoExec  
+| -------------------------- | :-----------------: 
+| XML Valid Check           |         ✔️         |    
+| JSON Valid Check            |         ✔️         |    
+| Change all Values |         ✔️         | 
+| Add Spawn Attachments from Types      |         ✔️         |   
+| Add Variants from Types  |         ✔️         | 
+| Multiselect  |         ✔️         |
+
+
 
 <!-- Video Preview -->
 
@@ -60,7 +73,7 @@ I created this tool to make life more easy for Expansion users and also keep it 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### Built With
+## :nut_and_bolt: Built With
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -69,14 +82,14 @@ I created this tool to make life more easy for Expansion users and also keep it 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## :notebook: Getting Started
 
 Download the the latest Version here:
    ```sh
    https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/archive/refs/heads/main.zip
    ```
 
-### Installation
+### 🔨 Installation
 
 1. Open the Downloaded .Zip folder.
 
@@ -103,9 +116,9 @@ Download the the latest Version here:
 
 
 <!-- CONTACT -->
-## Contact
+## :rocket: Contact
+<a href="dsc.gg/cyberneticmonkey"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
 
-Discord: [dsc.gg/cyberneticmonkeys](dsc.gg/cyberneticmonkeys)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
