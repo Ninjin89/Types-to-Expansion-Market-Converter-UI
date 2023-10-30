@@ -30,7 +30,7 @@
 ## :beginner: About The Project
 ### All about the Project
 
-I have programmed this converter to make life easier for Dayz Expansion Mod users. The converter is still in early development.
+I have programmed this converter to make life easier for Dayz Expansion Mod users while keep it simple. The converter is still in early development.
 
 [![Product Name Screen Shot][product-screenshot]](https://#)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
