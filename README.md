@@ -39,7 +39,7 @@ I have programmed this converter to make life easier for Dayz Expansion Mod user
 ## Features
 ### List of Features
 
-|      Feautres                      | 🔰 ArminC AutoExec  
+|      Feautres                      | 🔰 
 | -------------------------- | :-----------------: 
 | XML Valid Check           |         ✔️         |    
 | JSON Valid Check            |         ✔️         |    
