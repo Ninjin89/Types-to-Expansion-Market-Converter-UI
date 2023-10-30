@@ -71,8 +71,8 @@ I created this tool to make life more easy for Expansion users and also keep it 
 <!-- Video Preview -->
 
 ### Video Preview
-<a href="https://youtu.be/g43TYvBzRhQ" target="_blank">
- <img src="https://img.youtube.com/vi/g43TYvBzRhQ/maxresdefault.jpg" alt="Watch the video" width="800" height="400" border="10" />
+<a href="https://youtu.be/QK1B3B-uvgI" target="_blank">
+ <img src="https://img.youtube.com/vi/QK1B3B-uvgI/maxresdefault.jpg" alt="Watch the video" width="800" height="400" border="10" />
 </a>
 
  <!--`github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`-->
