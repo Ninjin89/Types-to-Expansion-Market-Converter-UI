@@ -48,6 +48,7 @@ I have programmed this converter to make life easier for Dayz Expansion Mod user
 | Add Variants from Types  |         ✔️         | 
 | Add Items from Types to Expansion Market  |         ✔️         |
 | Multiselect  |         ✔️         |
+| Create Market file  |        in development         |
 
 
 
