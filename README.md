@@ -18,7 +18,6 @@
   <a href="#Installation-Guide">Installation</a> •
   <a href="#List-of-Features">List of Features</a> •
   <a href="#Lets-go-and-start">Getting-Started</a> •
-  <a href="#installation">Installation</a> •
   <a href="#Contact-me-here">Support</a> 
 
 </p>
