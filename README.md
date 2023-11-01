@@ -12,7 +12,7 @@
 ## :beginner: About The Project
 ### Project Overview
 
-The Types to Expansion Market Converter with UI has been meticulously developed to simplify the workflow of Dayz Expansion Mod users while maintaining a user-friendly approach. Please note that this converter is still in the early stages of development.
+The Types to Expansion Market Converter with UI has been developed to simplify the workflow of Dayz Expansion Mod users while maintaining a user-friendly approach. Please note that this converter is still in the early stages of development.
 
 [![Product Name Screen Shot][product-screenshot]](https://#)
 
