@@ -40,6 +40,7 @@ I have programmed this converter to make life easier for Dayz Expansion Mod user
 [![Video Preview](https://img.youtube.com/vi/mgv4c_klUh4/0.jpg)](https://www.youtube.com/watch?v=mgv4c_klUh4)
 
 Click on the image above to watch a preview of our awesome video!
+The video was recorded in 4K resolution, which may require you to adjust the playback quality to 1080p for optimal readability if your monitor's resolution is smaller.
 
 ## About the Video
 
