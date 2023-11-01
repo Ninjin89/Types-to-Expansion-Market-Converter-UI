@@ -35,6 +35,16 @@ I have programmed this converter to make life easier for Dayz Expansion Mod user
 [![Product Name Screen Shot][product-screenshot]](https://#)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+# Video Preview
+
+[![Video Preview](https://img.youtube.com/vi/mgv4c_klUh4/0.jpg)](https://www.youtube.com/watch?v=mgv4c_klUh4)
+
+Click on the image above to watch a preview of our awesome video!
+
+## About the Video
+
+This video showcases the converter, in action. It provides a brief overview of what you can expect in the full video.
+
 
 ## Features
 ### List of Features
