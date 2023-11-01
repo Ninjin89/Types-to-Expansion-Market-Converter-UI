@@ -1,138 +1,74 @@
-# Types-to-Expansion-Market-Converter-UI
-<a name="readme-top"></a>
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
+# Types to Expansion Market Converter UI
+
+<p align="center">
   <a href="https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI">
    <img src="https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/blob/main/icon.png?raw=true" alt="Logo" width="160" height="160">
   </a>
 
-<h3 align="center">Types to Expansion Market Converter with UI</h3>
+<h3 align="center">Types to Expansion Market Converter with User Interface</h3>
 
-  <p align="center">
-    A program to convert Types XML classnames to Expansion Market JSON items.
-    <br />
-</div>
+<p align="center">A software tool designed to streamline the conversion of Types XML classnames into Expansion Market JSON items.</p>
 
-<p align="center">
-  <a href="#Installation-Guide">Installation</a> •
-  <a href="#List-of-Features">List of Features</a> •
-  <a href="#Lets-go-and-start">Getting-Started</a> •
-  <a href="#Contact-me-here">Support</a> 
-
-</p>
-
-
-
-
-
-<!-- ABOUT THE PROJECT -->
 ## :beginner: About The Project
-### All about the Project
+### Project Overview
 
-I have programmed this converter to make life easier for Dayz Expansion Mod users while keep it simple. The converter is still in early development.
+The Types to Expansion Market Converter with UI has been meticulously developed to simplify the workflow of Dayz Expansion Mod users while maintaining a user-friendly approach. Please note that this converter is still in the early stages of development.
 
 [![Product Name Screen Shot][product-screenshot]](https://#)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Video Preview
 
 [![Video Preview](https://img.youtube.com/vi/mgv4c_klUh4/0.jpg)](https://www.youtube.com/watch?v=mgv4c_klUh4)
 
-Click on the image above to watch a preview of our awesome video!
-The video was recorded in 4K resolution, which may require you to adjust the playback quality to 1080p for optimal readability if your monitor's resolution is smaller.
+Click the image above to watch a high-resolution video preview of our software. If your monitor's resolution is smaller, you may want to adjust the playback quality to 1080p for optimal clarity.
 
-## About the Video
+## Key Features
+### Features at a Glance
 
-This video showcases the converter, in action. It provides a brief overview of what you can expect in the full video.
+| Feature                        | Availability |
+| ------------------------------- | :----------: |
+| XML Validity Check             |      ✔️      |
+| JSON Validity Check            |      ✔️      |
+| Bulk Value Editing             |      ✔️      |
+| Add Spawn Attachments from Types |    ✔️      |
+| Add Variants from Types        |      ✔️      |
+| Add Items from Types to Expansion Market |  ✔️  |
+| Multi-Selection                |      ✔️      |
+| Real-time Auto Save            |      ✔️      |
+| Market File Creation (In Development) |   🛠️  |
 
-
-## Features
-### List of Features
-
-|      Feautres                      | 🔰 
-| -------------------------- | :-----------------: 
-| XML Valid Check           |         ✔️         |    
-| JSON Valid Check            |         ✔️         |    
-| Change all Values |         ✔️         | 
-| Add Spawn Attachments from Types      |         ✔️         |   
-| Add Variants from Types  |         ✔️         | 
-| Add Items from Types to Expansion Market  |         ✔️         |
-| Multiselect  |         ✔️         |
-| Auto save for each change (realtime edit)  |        ✔️         |
-| Create Market file  |        in development         |
-
-
-
-<!-- Video Preview 
-
-### Video Preview
-<a href="https://youtu.be/QK1B3B-uvgI" target="_blank">
- <img src="https://img.youtube.com/vi/QK1B3B-uvgI/maxresdefault.jpg" alt="Watch the video" width="800" height="400" border="10" />
-</a>
-
- `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
-
-
-## :nut_and_bolt: Built With
+## :nut_and_bolt: Technologies Used
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
 ## :notebook: Getting Started
-### Lets go and start
+### Getting Started
 
-Download the the latest Version here:
-   [Releases](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/releases)
+1. Download the latest version from the [Releases](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/releases) section.
 
-## Installation
-### Installation Guide
-
-1. Open the Downloaded .Zip folder. (If you downloaded the .exe just start at point 3)
-
-2. Extract the content to your Desktop or wherever you like it to be extracted, for example:
-   ```
-   C:\Types to Expansion Converter
-   ```
-3. Start the TypesToExpansion.exe
-
-4. If your get the Windows Defender Message "Windows Protected your PC" just click on "More Info" and than on "Run anyway Button".
-   <img src="https://forum.deeparteffects.com/uploads/default/optimized/1X/40be72c2287994a99f4aadf4ddb52fe6250b54a0_2_690x388.jpg">
-    <img src="https://i.imgur.com/Nt4dp9z.jpg" style="width: 600px; height: 380px;">
-
-5. Load your `types.xml` file by pressing the ``Load Types XML`` Button, the name of the file doesnt matter.
-
-> **Note**
->  You can find the types.xml in your mods folder in your mpmissions folder.
+2. Extract the downloaded ZIP file to your preferred location, for example:
+C:\Types to Expansion Converter
 
 
-6. Load your `.json` file by pressing the `Load Market JSON` Button, the name of the file doesnt matter.
+3. Run the TypesToExpansion.exe.
 
-> **Note**
-> You can find the .json in your profiles folder under:
-> \profiles\ExpansionMod\Market\AMMO.json.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+4. If you encounter a Windows Defender message saying "Windows Protected your PC," click on "More Info" and then on the "Run anyway" button.
 
+5. Load your `types.xml` file by clicking the "Load Types XML" button. The file's name doesn't matter.
 
+> **Note:** You can find the types.xml file in your mods folder within your mpmissions folder.
 
+6. Load your `.json` file by clicking the "Load Market JSON" button. The file's name doesn't matter.
 
-<!-- CONTACT -->
+> **Note:** You can find the .json file in your profiles folder under:
+`\profiles\ExpansionMod\Market\AMMO.json`.
+
 ## :rocket: Contact
-### Contact me here
+### Contact Information
+
+For any questions or support, you can reach out on Discord:
+<br></br>
 <a href="https://discord.gg/mEPT9KNSxs"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -165,3 +101,4 @@ Download the the latest Version here:
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+
