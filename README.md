@@ -35,7 +35,7 @@ Click the image above to watch a high-resolution video preview of our software. 
 | Add Items from Types to Expansion Market |  ✔️  |
 | Multi-Selection                |      ✔️      |
 | Real-time Auto Save            |      ✔️      |
-| Market File Creation (In Development) |   ✔️ |
+| Market File Creation |   ✔️ |
 
 ## :nut_and_bolt: Technologies Used
 
