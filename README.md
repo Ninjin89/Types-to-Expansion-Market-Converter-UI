@@ -55,14 +55,13 @@ Click the image above to watch a high-resolution video preview of our software. 
 2. Extract the downloaded ZIP file or to your preferred location, for example:
 C:\Types to Expansion Converter
 
-(If you just downloaded the .exe, please proceed directly to section 3.)
-
-
 3. Run the TypesToExpansion.exe.
 
-4. If you encounter a Windows Defender message saying "Windows Protected your PC," click on "More Info" and then on the "Run anyway" button.
+4. You may need to Download Microsoft Windows Desktop Runtime, if you get a Window-Popup just press "Yes" to download it from Microsoft.
 
-5. Load your `types.xml` file by clicking the "Load Types XML" button. The file's name doesn't matter.
+6. If you encounter a Windows Defender message saying "Windows Protected your PC," click on "More Info" and then on the "Run anyway" button.
+
+7. Load your `types.xml` file by clicking the "Load Types XML" button. The file's name doesn't matter.
 
 > **Note:** You can find the types.xml file in your mods folder within your mpmissions folder.
 
