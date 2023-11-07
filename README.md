@@ -52,7 +52,7 @@ Click the image above to watch a high-resolution video preview of our software. 
 
 1. Download the latest version from the [Releases](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/releases) section.
 
-2. Extract the downloaded ZIP file or to your preferred location, for example:
+2. Extract the downloaded ZIP file to your preferred location, for example:
 C:\Types to Expansion Converter
 
 3. Run the TypesToExpansion.exe.
