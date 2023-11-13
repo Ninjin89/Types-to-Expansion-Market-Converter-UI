@@ -29,6 +29,7 @@ Click the image above to watch a high-resolution video preview of our software. 
 | ------------------------------- | :----------: |
 | XML Validity Check             |      ✔️      |
 | JSON Validity Check            |      ✔️      |
+| XML File Editing             |      ✔️      |
 | Bulk Value Editing             |      ✔️      |
 | Add Spawn Attachments from Types |    ✔️      |
 | Add Variants from Types        |      ✔️      |
