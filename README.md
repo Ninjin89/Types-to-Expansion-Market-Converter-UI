@@ -16,7 +16,9 @@ The Types to Expansion Market Converter with UI has been developed to simplify t
 
 
 # Preview
-[![Product Name Screen Shot][product-screenshot]](https://#)
+![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/06e5e8f4-4ded-4ef8-acef-48079f29de38)
+![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/739c19d0-2bf7-4ce0-aaa3-a889bc140750)
+
 
 
 
@@ -35,6 +37,7 @@ Click the image above to watch a high-resolution video preview of our software. 
 | Add Variants from Types        |      ✔️      |
 | Add Items from Types to Expansion Market |  ✔️  |
 | Multi-Selection                |      ✔️      |
+| Custom cfglimitsdefinitions               |      ✔️      |
 | Real-time Auto Save            |      ✔️      |
 | Market File Creation |   ✔️ |
 | Color Picker |   ✔️ |
