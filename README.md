@@ -2,26 +2,25 @@
 
 <p align="center">
   <a href="https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI">
-   <img src="https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/blob/main/previews/icon2.png?raw=true" alt="Logo" width="160" height="160">
+    <img src="https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/blob/main/previews/icon2.png?raw=true" alt="Logo" width="160" height="160">
   </a>
+</p>
 
 <h3 align="center">Types to Expansion Market Converter with User Interface</h3>
 
 <p align="center">A software tool designed to streamline the conversion of Types XML classnames into Expansion Market JSON items.</p>
 
+
 ## :beginner: About The Project
 ### Project Overview
 
+Video:
+[Watch Video Preview](https://www.youtube.com/watch?v=_P_d2KC_sKo)
+
 The Types to Expansion Market Converter with UI has been developed to simplify the workflow of Dayz Expansion Mod users while maintaining a user-friendly approach. Please note that this converter is still in the early stages of development.
 
-
 # Preview
-![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/06e5e8f4-4ded-4ef8-acef-48079f29de38)
-![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/61dd137f-50ff-4f8c-b100-1d786600c399)
-
-
-
-
+![Preview](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/7f0a43c9-afcc-419b-b6a3-161a04713fd3)
 
 Click the image above to watch a high-resolution video preview of our software. If your monitor's resolution is smaller, you may want to adjust the playback quality to 1080p for optimal clarity.
 
@@ -45,10 +44,6 @@ Click the image above to watch a high-resolution video preview of our software. 
 | Icon Picker |   ✔️ |
 
 ## :nut_and_bolt: Technologies Used
-
-
-
-
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -82,6 +77,8 @@ For any questions or support, you can reach out on Discord:
 <br></br>
 <a href="https://discord.gg/mEPT9KNSxs"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
 
+
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
@@ -112,5 +109,3 @@ For any questions or support, you can reach out on Discord:
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
-
