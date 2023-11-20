@@ -40,6 +40,7 @@ Click the image above to watch a high-resolution video preview of our software. 
 | Custom cfglimitsdefinitions               |      ✔️      |
 | Real-time Auto Save            |      ✔️      |
 | Market File Creation |   ✔️ |
+| Trader Edit |   ✔️ |
 | Color Picker |   ✔️ |
 | Icon Picker |   ✔️ |
 
