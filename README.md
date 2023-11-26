@@ -35,6 +35,7 @@ Click the image above to watch a high-resolution video preview of our software. 
 | Dr Jones to Expansion [See v1.2.6](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/releases/tag/v1.2.6)|   ✔️ |
 | Trader Edit |   ✔️ |
 | Market File Creation |   ✔️ |
+| AutoUpdater |   ✔️ |
 | Bulk Value Editing             |      ✔️      |
 | Add Spawn Attachments from Types |    ✔️      |
 | Add Variants from Types        |      ✔️      |
