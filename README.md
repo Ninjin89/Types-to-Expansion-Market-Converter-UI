@@ -32,6 +32,9 @@ Click the image above to watch a high-resolution video preview of our software. 
 | XML Validity Check             |      ✔️      |
 | JSON Validity Check            |      ✔️      |
 | XML File Editing             |      ✔️      |
+| Dr Jones to Expansion |   ✔️ |
+| Trader Edit |   ✔️ |
+| Market File Creation |   ✔️ |
 | Bulk Value Editing             |      ✔️      |
 | Add Spawn Attachments from Types |    ✔️      |
 | Add Variants from Types        |      ✔️      |
@@ -39,10 +42,10 @@ Click the image above to watch a high-resolution video preview of our software. 
 | Multi-Selection                |      ✔️      |
 | Custom cfglimitsdefinitions               |      ✔️      |
 | Real-time Auto Save            |      ✔️      |
-| Market File Creation |   ✔️ |
-| Trader Edit |   ✔️ |
 | Color Picker |   ✔️ |
 | Icon Picker |   ✔️ |
+
+
 
 ## :nut_and_bolt: Technologies Used
 
