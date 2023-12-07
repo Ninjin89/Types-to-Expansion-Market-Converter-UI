@@ -20,7 +20,8 @@ Video Guide:
 The Types to Expansion Market Converter with UI has been developed to simplify the workflow of Dayz Expansion Mod users while maintaining a user-friendly approach. Please note that this converter is still in the early stages of development.
 
 # Preview
-![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/93b17b21-ab16-4cd8-ad9c-4342ac457c05)
+![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/30f16613-996c-4432-87fa-5a7790d1ba8b)
+
 
 
 Click the image above to watch a high-resolution video preview of our software. If your monitor's resolution is smaller, you may want to adjust the playback quality to 1080p for optimal clarity.
