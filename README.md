@@ -79,7 +79,8 @@ C:\Types to Expansion Converter
 > **Note:** You can find the .json file in your profiles folder under:
 `\profiles\ExpansionMod\Market\AMMO.json`.
 
-> **Note:** DOES NOT SUPPORT DPI SCALE ABOVE 100%:
+> **Note**
+> Does not Support DPI Scaling of windows above 100%.
 
 ## :rocket: Contact
 ### Contact Information
