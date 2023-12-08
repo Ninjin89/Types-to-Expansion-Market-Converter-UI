@@ -56,6 +56,14 @@ Click the image above to watch a high-resolution video preview of our software. 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+
+
+
+
+
+## *DPI SCALING*
+> Does not Support DPI Scaling of windows above 100%.
+
 ## :notebook: Getting Started
 ### Getting Started
 
@@ -79,8 +87,6 @@ C:\Types to Expansion Converter
 > **Note:** You can find the .json file in your profiles folder under:
 `\profiles\ExpansionMod\Market\AMMO.json`.
 
-> **Note**
-> Does not Support DPI Scaling of windows above 100%.
 
 ## :rocket: Contact
 ### Contact Information
