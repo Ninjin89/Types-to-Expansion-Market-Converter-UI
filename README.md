@@ -38,6 +38,7 @@ Click the image above to watch a high-resolution video preview of our software. 
 | XML File Editing             |      ✔️      |
 | Advanced Dr Jones to Expansion [See v2.0.0.2](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/releases/tag/v2.0.0.2)|   ✔️ |
 | Trader Edit |   ✔️ |
+| Quest Edit(in work) |  🔨 |
 | Market File Creation |   ✔️ |
 | AutoUpdater |   ✔️ |
 | Bulk Value Editing             |      ✔️      |
