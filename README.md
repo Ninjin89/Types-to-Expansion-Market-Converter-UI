@@ -1,5 +1,4 @@
 # Types to Expansion Market Converter UI
-
 <p align="center">
   <a href="https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI">
     <img src="https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/blob/main/previews/icon2.png?raw=true" alt="Logo" width="160" height="160">
