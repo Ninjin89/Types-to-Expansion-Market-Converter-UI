@@ -23,10 +23,6 @@ The Types to Expansion Market Converter with UI has been developed to simplify t
 ![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/190d86aa-14cb-452f-b967-9512a4a03fbc)
 
 
-
-
-Click the image above to watch a high-resolution video preview of our software. If your monitor's resolution is smaller, you may want to adjust the playback quality to 1080p for optimal clarity.
-
 ## Key Features
 ### Features at a Glance
 
