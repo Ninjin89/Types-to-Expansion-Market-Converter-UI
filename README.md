@@ -7,7 +7,7 @@
 
 <h3 align="center">Types to Expansion Market Converter with User Interface</h3>
 
-<p align="center">A software tool designed to streamline the conversion of Types XML classnames into Expansion Market JSON items.</p>
+<p align="center">A software tool designed to streamline the conversion of Types XML classnames into Expansion Market JSON items and more.</p>
 
 
 ## :beginner: About The Project
