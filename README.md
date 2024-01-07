@@ -21,6 +21,14 @@ The Types to Expansion Market Converter with UI has been developed to simplify t
 # Preview
 ![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/30f16613-996c-4432-87fa-5a7790d1ba8b)
 ![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/190d86aa-14cb-452f-b967-9512a4a03fbc)
+![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/201aeb63-5797-4283-bc79-ae18ee1c9589)
+![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/738e0e82-b0c0-4d9a-bde9-83b2e6c560e4)
+![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/f2580541-05fd-4cb0-b693-4caf06cfd695)
+![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/84583993-68bb-4664-88d3-b8587aa2e7d4)
+
+
+
+
 
 
 ## Key Features
