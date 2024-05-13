@@ -83,11 +83,11 @@ C:\Types to Expansion Converter
 
 6. If you encounter a Windows Defender message saying "Windows Protected your PC," click on "More Info" and then on the "Run anyway" button.
 
-7. Load your `types.xml` file by clicking the "Load Types XML" button. The file's name doesn't matter.
+7. Load your `types.xml` file by right clicking in the dark square on the left side at Market-Tab than press "Load Types XML" button. The file's name doesn't matter.
 
 > **Note:** You can find the types.xml file in your mods folder within your mpmissions folder.
 
-6. Load your `.json` file by clicking the "Load Market JSON" button. The file's name doesn't matter.
+6. Load your `.json` file by right clicking in the dark square at the right side at Market-Tab than press "Load Market JSON" button. The file's name doesn't matter.
 
 > **Note:** You can find the .json file in your profiles folder under:
 `\profiles\ExpansionMod\Market\AMMO.json`.
