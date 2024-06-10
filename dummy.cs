@@ -4,4 +4,4 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Collections.Generic;
 using Microsoft.Extensions.Configuration;
-using RepositoryPattern.models
+using RepositoryPattern.model
