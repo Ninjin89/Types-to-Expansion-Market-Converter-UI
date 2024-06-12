@@ -42,8 +42,10 @@ The Types to Expansion Market Converter with UI has been developed to simplify t
 | Advanced Dr Jones to Expansion [See v2.0.0.2](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/releases/tag/v2.0.0.2)|   ✔️ |
 | Trader Edit |   ✔️ |
 | Quest Edit |  ✔️ |
+| Quest Objectives Edit  | ✔️  |
+| Quest NPC Edit  | ✔️  |
+| Quest Settings Edit  | ✔️  |
 | Airdrop Edit |  ✔️ |
-| Quest Objectives Edit (Ai Camp Missing) | ✔️  |
 | Market File Creation |   ✔️ |
 | AutoUpdater (currently not working due domain lost)| ✔️  |
 | Bulk Value Editing             |      ✔️      |
