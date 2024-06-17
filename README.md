@@ -57,7 +57,9 @@ The Types to Expansion Market Converter with UI has been developed to simplify t
 | Real-time Auto Save            |      ✔️      |
 | Color Picker |   ✔️ |
 | Icon Picker |   ✔️ |
+| Multilanguage Support (English,Russian,Chinese,Italian,Portuguese |   ✔️ |
 | Much more stuff |   ✔️ |
+
 
 
 
