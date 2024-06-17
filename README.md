@@ -47,7 +47,7 @@ The Types to Expansion Market Converter with UI has been developed to simplify t
 | Quest Settings Edit  | ✔️  |
 | Airdrop Edit |  ✔️ |
 | Market File Creation |   ✔️ |
-| AutoUpdater (currently not working due domain lost)| ✔️  |
+| AutoUpdater | ✔️  |
 | Bulk Value Editing             |      ✔️      |
 | Add Spawn Attachments from Types |    ✔️      |
 | Add Variants from Types        |      ✔️      |
