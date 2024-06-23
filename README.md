@@ -16,7 +16,7 @@
 Video Guide(old):
 [Watch Video Preview](https://www.youtube.com/watch?v=Q08Pn57GlQ0)
 
-New Market-Editor Guide: ❤️
+New Market-Editor Guide: 
 [https://www.youtube.com/watch?v=Q08Pn57GlQ0](https://www.youtube.com/watch?v=BkdveCo_9U4)
 
 
