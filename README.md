@@ -85,7 +85,10 @@ The Types to Expansion Market Converter with UI has been developed to simplify t
 ## *DPI SCALING*
 > Does not Support DPI Scaling of windows above 100%.
 
-Workaround fix Video: https://www.youtube.com/watch?v=jXnyxN0-JBk
+Workaround fix Video: 
+[https://www.youtube.com/watch?v=jXnyxN0-JBk](https://www.youtube.com/watch?v=jXnyxN0-JBk)
+
+
 
 
 ## :notebook: Getting Started
