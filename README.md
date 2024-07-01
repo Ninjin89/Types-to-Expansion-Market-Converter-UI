@@ -51,6 +51,8 @@ The Types to Expansion Market Converter with UI has been developed to simplify t
 | Quest NPC Edit  | ✔️  |
 | Quest Settings Edit  | ✔️  |
 | Airdrop Edit |  ✔️ |
+| Airdrop Mission Edit |  ✔️ |
+| Map click for coordinates |  ✔️ |
 | Ai Settings Edit |  ✔️ |
 | Ai Patrol Settings Edit |  ✔️ |
 | Market File Creation |   ✔️ |
