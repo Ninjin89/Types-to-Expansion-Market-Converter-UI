@@ -55,6 +55,7 @@ The Types to Expansion Market Converter with UI has been developed to simplify t
 | Airdrop Mission Edit |  ✔️ |
 | Map click for coordinates |  ✔️ |
 | Ai Settings Edit |  ✔️ |
+| Loadout Editor |  ✔️ |
 | Ai Patrol Settings Edit |  ✔️ |
 | Market File Creation |   ✔️ |
 | AutoUpdater | ✔️  |
