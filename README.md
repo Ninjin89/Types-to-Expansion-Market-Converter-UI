@@ -61,14 +61,14 @@ The Types to Expansion Market Converter with UI has been developed to simplify t
 | Map click for coordinates |  ✔️ |
 | Market File Creation |   ✔️ |
 | Multi-Selection                |      ✔️      |
-| Multilanguage Support (English,Russian,Chinese,Italian,Portuguese) |   ✔️ |
+| Multilanguage Support (English,Russian,Chinese,Italian,Portuguese,Czech) |   ✔️ |
 | Quest Edit |  ✔️ |
 | Quest NPC Edit  | ✔️  |
 | Quest Objectives Edit  | ✔️  |
 | Quest Settings Edit  | ✔️  |
 | Real-time Auto Save            |      ✔️      |
 | Trader Edit |   ✔️ |
-| vehicle Settings Editor |  ✔️ |
+| Vehicle Settings Editor |  ✔️ |
 | XML File Editing |      ✔️      |
 | XML Validity Check             |      ✔️      |
 | Much more stuff |   ✔️ |
