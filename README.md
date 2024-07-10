@@ -42,34 +42,35 @@ The Types to Expansion Market Converter with UI has been developed to simplify t
 
 | Feature                        | Availability |
 | ------------------------------- | :----------: |
-| XML Validity Check             |      ✔️      |
-| JSON Validity Check            |      ✔️      |
-| XML File Editing             |      ✔️      |
-| Advanced Dr Jones to Expansion [See v2.0.0.2](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/releases/tag/v2.0.0.2)|   ✔️ |
-| Advanced TraderPlus Converter [See v2.0.4.2]([https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/releases/tag/v2.0.0.2](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/releases/tag/v2.0.4.2))|   ✔️ |
-| Trader Edit |   ✔️ |
-| Quest Edit |  ✔️ |
-| Quest Objectives Edit  | ✔️  |
-| Quest NPC Edit  | ✔️  |
-| Quest Settings Edit  | ✔️  |
-| Airdrop Edit |  ✔️ |
-| Airdrop Mission Edit |  ✔️ |
-| Map click for coordinates |  ✔️ |
-| Ai Settings Edit |  ✔️ |
-| Loadout Editor |  ✔️ |
-| Ai Patrol Settings Edit |  ✔️ |
-| Market File Creation |   ✔️ |
-| AutoUpdater | ✔️  |
-| Bulk Value Editing             |      ✔️      |
+| Add Items from Types to Expansion Market |  ✔️  |
 | Add Spawn Attachments from Types |    ✔️      |
 | Add Variants from Types        |      ✔️      |
-| Add Items from Types to Expansion Market |  ✔️  |
-| Multi-Selection                |      ✔️      |
-| Custom cfglimitsdefinitions               |      ✔️      |
-| Real-time Auto Save            |      ✔️      |
+| Advanced Dr Jones to Expansion [See v2.0.0.2](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/releases/tag/v2.0.0.2)|   ✔️ |
+| Advanced TraderPlus Converter [See v2.0.4.2](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/releases/tag/v2.0.4.2)|   ✔️ |
+| Ai Patrol Settings Edit |  ✔️ |
+| Ai Settings Edit |  ✔️ |
+| Airdrop Edit |  ✔️ |
+| Airdrop Mission Edit |  ✔️ |
+| AutoUpdater | ✔️  |
+| Bulk Value Editing             |      ✔️      |
 | Color Picker |   ✔️ |
+| Custom cfglimitsdefinitions               |      ✔️      |
 | Icon Picker |   ✔️ |
-| Multilanguage Support (English,Russian,Chinese,Italian,Portuguese |   ✔️ |
+| JSON Validity Check            |      ✔️      |
+| Loadout Editor |  ✔️ |
+| Map click for coordinates |  ✔️ |
+| Market File Creation |   ✔️ |
+| Multi-Selection                |      ✔️      |
+| Multilanguage Support (English,Russian,Chinese,Italian,Portuguese) |   ✔️ |
+| Quest Edit |  ✔️ |
+| Quest NPC Edit  | ✔️  |
+| Quest Objectives Edit  | ✔️  |
+| Quest Settings Edit  | ✔️  |
+| Real-time Auto Save            |      ✔️      |
+| Trader Edit |   ✔️ |
+| vehicle Settings Editor |  ✔️ |
+| XML File Editing |      ✔️      |
+| XML Validity Check             |      ✔️      |
 | Much more stuff |   ✔️ |
 
 
