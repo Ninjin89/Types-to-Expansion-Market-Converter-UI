@@ -71,6 +71,7 @@ The Types to Expansion Market Converter with UI has been developed to simplify t
 | Vehicle Settings Editor |  ✔️ |
 | XML File Editing |      ✔️      |
 | XML Validity Check             |      ✔️      |
+| XML Live Preview in UI |  ✔️  |
 | Much more stuff |   ✔️ |
 
 
