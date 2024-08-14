@@ -22,6 +22,13 @@ New Market-Editor Guide:
 
 The Types to Expansion Market Converter with UI has been developed to simplify the workflow of Dayz Expansion Mod users while maintaining a user-friendly approach. Please note that this converter is still in the early stages of development.
 
+## :rocket: Contact
+### Contact Information
+
+For any questions or support, you can reach out on Discord:
+<br></br>
+<a href="https://discord.gg/mEPT9KNSxs"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
+
 # Preview
 Market Editor
 ![grafik](https://github.com/user-attachments/assets/545ff4e0-6b56-4302-81b7-bea953a39953)
@@ -138,12 +145,7 @@ C:\Types to Expansion Converter
 `\profiles\ExpansionMod\Market\AMMO.json`.
 
 
-## :rocket: Contact
-### Contact Information
 
-For any questions or support, you can reach out on Discord:
-<br></br>
-<a href="https://discord.gg/mEPT9KNSxs"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
 
 
 
