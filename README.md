@@ -18,7 +18,7 @@ The Types to Expansion Market Converter with UI has been developed to simplify t
 ## :rocket: Contact
 ### Contact Information
 
-For any questions or support, you can reach out on Discord:
+Discord:
 <br></br>
 <a href="https://discord.gg/mEPT9KNSxs"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
 
