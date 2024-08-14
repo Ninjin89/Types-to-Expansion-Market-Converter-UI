@@ -13,13 +13,6 @@
 ## :beginner: About The Project
 ### Project Overview
 
-Video Guide(old):
-[Watch Video Preview](https://www.youtube.com/watch?v=Q08Pn57GlQ0)
-
-New Market-Editor Guide: 
-[https://www.youtube.com/watch?v=Q08Pn57GlQ0](https://www.youtube.com/watch?v=BkdveCo_9U4)
-
-
 The Types to Expansion Market Converter with UI has been developed to simplify the workflow of Dayz Expansion Mod users while maintaining a user-friendly approach. Please note that this converter is still in the early stages of development.
 
 ## :rocket: Contact
@@ -28,6 +21,12 @@ The Types to Expansion Market Converter with UI has been developed to simplify t
 For any questions or support, you can reach out on Discord:
 <br></br>
 <a href="https://discord.gg/mEPT9KNSxs"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
+
+YouTube:
+<br></br>
+<a href="https://www.youtube.com/@naij0291/videos">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="80" height="45">
+</a>
 
 # Preview
 <details>
