@@ -23,13 +23,31 @@ New Market-Editor Guide:
 The Types to Expansion Market Converter with UI has been developed to simplify the workflow of Dayz Expansion Mod users while maintaining a user-friendly approach. Please note that this converter is still in the early stages of development.
 
 # Preview
+Market Editor
+![grafik](https://github.com/user-attachments/assets/545ff4e0-6b56-4302-81b7-bea953a39953)
+
+Map Tab to get Coordinates or set them for Missions,TraderZones and more
 ![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/7ff8908a-9e76-4fb9-8589-946475c6bebf)
-![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/ba796f12-c08e-4643-a47c-4c64bf82e14d)
+
+XML Editor with Preview:
+![grafik](https://github.com/user-attachments/assets/8d24e85b-fb39-4666-a0b7-61d494d1c78c)
+
+XML Editor
 ![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/190d86aa-14cb-452f-b967-9512a4a03fbc)
+
+Market Colors
 ![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/201aeb63-5797-4283-bc79-ae18ee1c9589)
+
+Quests
 ![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/738e0e82-b0c0-4d9a-bde9-83b2e6c560e4)
+
+Quest Objectives
 ![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/f2580541-05fd-4cb0-b693-4caf06cfd695)
-![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/84583993-68bb-4664-88d3-b8587aa2e7d4)
+
+Converters
+![grafik](https://github.com/user-attachments/assets/733e48f0-c550-41f5-afb6-62d04b8dcf38)
+
+Loadouts:
 ![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/c584598f-e935-4381-a99f-5b4ad102ff3c)
 
 
