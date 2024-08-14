@@ -30,6 +30,9 @@ For any questions or support, you can reach out on Discord:
 <a href="https://discord.gg/mEPT9KNSxs"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
 
 # Preview
+<details>
+  <summary>Click to Expand and see Preview Images</summary>
+
 Market Editor
 ![grafik](https://github.com/user-attachments/assets/545ff4e0-6b56-4302-81b7-bea953a39953)
 
@@ -56,7 +59,7 @@ Converters
 
 Loadouts:
 ![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/c584598f-e935-4381-a99f-5b4ad102ff3c)
-
+</details>
 
 
 
@@ -65,39 +68,45 @@ Loadouts:
 ## Key Features
 ### Features at a Glance
 
-| Feature                        | Availability |
-| ------------------------------- | :----------: |
-| Add Items from Types to Expansion Market |  ✔️  |
-| Add Spawn Attachments from Types |    ✔️      |
-| Add Variants from Types        |      ✔️      |
-| Advanced Dr Jones to Expansion [See v2.0.0.2](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/releases/tag/v2.0.0.2)|   ✔️ |
-| Advanced TraderPlus Converter [See v2.0.4.2](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/releases/tag/v2.0.4.2)|   ✔️ |
-| Ai Patrol Settings Edit |  ✔️ |
-| Ai Settings Edit |  ✔️ |
-| Airdrop Edit |  ✔️ |
-| Airdrop Mission Edit |  ✔️ |
-| AutoUpdater | ✔️  |
-| Bulk Value Editing             |      ✔️      |
-| Color Picker |   ✔️ |
-| Custom cfglimitsdefinitions               |      ✔️      |
-| Icon Picker |   ✔️ |
-| JSON Validity Check            |      ✔️      |
-| Loadout Editor |  ✔️ |
-| Map click for coordinates |  ✔️ |
-| Market File Creation |   ✔️ |
-| Multi-Selection                |      ✔️      |
-| Multilanguage Support (English,Russian,Chinese,Italian,Portuguese,Czech) |   ✔️ |
-| Quest Edit |  ✔️ |
-| Quest NPC Edit  | ✔️  |
-| Quest Objectives Edit  | ✔️  |
-| Quest Settings Edit  | ✔️  |
-| Real-time Auto Save            |      ✔️      |
-| Trader Edit |   ✔️ |
-| Vehicle Settings Editor |  ✔️ |
-| XML File Editing |      ✔️      |
-| XML Validity Check             |      ✔️      |
-| XML Live Preview in UI |  ✔️  |
-| Much more stuff |   ✔️ |
+<details>
+  <summary>Click to Expand Key Features</summary>
+
+  | Feature                        | Availability |
+  | ------------------------------- | :----------: |
+  | Add Items from Types to Expansion Market |  ✔️  |
+  | Add Spawn Attachments from Types |    ✔️      |
+  | Add Variants from Types        |      ✔️      |
+  | Advanced Dr Jones to Expansion [See v2.0.0.2](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/releases/tag/v2.0.0.2)|   ✔️ |
+  | Advanced TraderPlus Converter [See v2.0.4.2](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/releases/tag/v2.0.4.2)|   ✔️ |
+  | Ai Patrol Settings Edit |  ✔️ |
+  | Ai Settings Edit |  ✔️ |
+  | Airdrop Edit |  ✔️ |
+  | Airdrop Mission Edit |  ✔️ |
+  | AutoUpdater | ✔️  |
+  | Bulk Value Editing             |      ✔️      |
+  | Color Picker |   ✔️ |
+  | Custom cfglimitsdefinitions               |      ✔️      |
+  | Icon Picker |   ✔️ |
+  | JSON Validity Check            |      ✔️      |
+  | Loadout Editor |  ✔️ |
+  | Map click for coordinates |  ✔️ |
+  | Market File Creation |   ✔️ |
+  | Multi-Selection                |      ✔️      |
+  | Multilanguage Support (English,Russian,Chinese,Italian,Portuguese,Czech) |   ✔️ |
+  | Quest Edit |  ✔️ |
+  | Quest NPC Edit  | ✔️  |
+  | Quest Objectives Edit  | ✔️  |
+  | Quest Settings Edit  | ✔️  |
+  | Real-time Auto Save            |      ✔️      |
+  | Trader Edit |   ✔️ |
+  | Vehicle Settings Editor |  ✔️ |
+  | XML File Editing |      ✔️      |
+  | XML Validity Check             |      ✔️      |
+  | XML Live Preview in UI |  ✔️  |
+  | Much more stuff |   ✔️ |
+
+</details>
+
 
 
 
