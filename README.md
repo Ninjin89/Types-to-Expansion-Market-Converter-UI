@@ -24,8 +24,8 @@ For any questions or support, you can reach out on Discord:
 
 YouTube:
 <br></br>
-<a href="https://www.youtube.com/@naij0291/videos">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="80" height="45">
+<a href="https://www.youtube.com/@naij0291/videos" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="68" height="45">
 </a>
 
 # Preview
