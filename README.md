@@ -15,18 +15,6 @@
 
 The Types to Expansion Market Converter with UI has been developed to simplify the workflow of Dayz Expansion Mod users while maintaining a user-friendly approach. Please note that this converter is still in the early stages of development.
 
-## :rocket: Contact
-### Contact Information
-
-Discord:
-<br></br>
-<a href="https://discord.gg/mEPT9KNSxs"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
-
-YouTube:
-<br></br>
-<a href="https://www.youtube.com/@naij0291/videos" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="68" height="45">
-</a>
 
 # Preview
 <details>
@@ -152,6 +140,18 @@ C:\Types to Expansion Converter
 > **Note:** You can find the .json file in your profiles folder under:
 `\profiles\ExpansionMod\Market\AMMO.json`.
 
+## :rocket: Contact
+### Contact Information
+
+Discord:
+<br></br>
+<a href="https://discord.gg/mEPT9KNSxs"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
+
+YouTube:
+<br></br>
+<a href="https://www.youtube.com/@naij0291/videos" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="68" height="45">
+</a>
 
 
 
