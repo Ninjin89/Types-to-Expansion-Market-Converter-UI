@@ -17,9 +17,6 @@ The Types to Expansion Market Converter with UI has been developed to simplify t
 
 
 # Preview
-<details>
-  <summary>Click to Expand and see Preview Images</summary>
-
 Market Editor
 ![grafik](https://github.com/user-attachments/assets/545ff4e0-6b56-4302-81b7-bea953a39953)
 
@@ -46,7 +43,7 @@ Converters
 
 Loadouts:
 ![grafik](https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/assets/25750563/c584598f-e935-4381-a99f-5b4ad102ff3c)
-</details>
+
 
 
 
