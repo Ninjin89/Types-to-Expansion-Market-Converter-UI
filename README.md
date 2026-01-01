@@ -13,7 +13,11 @@
 
 <p align="center">A software tool designed to streamline the conversion of Types XML classnames into Expansion Market JSON items and more.</p>
 
-# <span style="color: #ff0000;">⚠️ THIS IS NO LONGER MAINTAINED BECAUSE I AM CURRENTLY BUSY WITH REAL-LIFE COMMITMENTS AND MY OWN MOD PROJECT. ⚠️</span>
+<div align="center">
+
+# <span style="color: #ff0000;"> THIS IS NO LONGER MAINTAINED BECAUSE I AM CURRENTLY BUSY WITH REAL-LIFE COMMITMENTS AND MY OWN MOD PROJECT. </span>
+
+</div>
 
 ## :beginner: About The Project
 
