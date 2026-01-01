@@ -5,9 +5,6 @@
 <p align="center">
 
   <a href="https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI">
-
-    <img src="https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI/blob/main/previews/icon2.png?raw=true" alt="Logo" width="160" height="160">
-
   </a>
 
 </p>
@@ -16,7 +13,7 @@
 
 <p align="center">A software tool designed to streamline the conversion of Types XML classnames into Expansion Market JSON items and more.</p>
 
-<h1 align="center" style="color: red; font-size: 2.5em; font-weight: bold;">THIS IS NO LONGER MAINTAINED BECAUSE I AM CURRENTLY BUSY WITH REAL-LIFE COMMITMENTS AND MY OWN MOD PROJECT.</h1>
+# <span style="color: #ff0000;">⚠️ THIS IS NO LONGER MAINTAINED BECAUSE I AM CURRENTLY BUSY WITH REAL-LIFE COMMITMENTS AND MY OWN MOD PROJECT. ⚠️</span>
 
 ## :beginner: About The Project
 
